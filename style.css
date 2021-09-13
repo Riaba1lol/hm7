@@ -1,0 +1,25 @@
+.card {
+  height: 300px;
+  width: 650px;
+  background-color: #332809;
+  padding: 12px;
+  margin-top: 5;
+}
+
+.name {
+  color: white;
+  font-family: "Urbanist", sans-serif;
+  margin: 0;
+}
+
+.position {
+  color: white;
+  font-family: "Urbanist", sans-serif;
+  font-size: 14px;
+}
+
+.a {
+  width: 674;
+  height: 16;
+  border-bottom: 4px solid grey;
+}
